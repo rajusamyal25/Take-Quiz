@@ -1,7 +1,7 @@
 # Take-Quiz
 A Sample Quiz page.
 The provided files contains the html structure, css styling and javascript of the quiz page.
-Note: Download the files, Create a folder "js" and keep only " question.js" and "script.js" files in it.
+Note: Download the files, Create a folder named as "js" and keep only " questions.js" and "script.js" files in it.
 Open html file then click on "start quiz" button, you will find some instructions about answering the questions and scores.
 Read them and click "Next" to take the quiz.
 Once you start, 15 seconds are alloted to answer to one question.
