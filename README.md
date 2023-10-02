@@ -1,5 +1,5 @@
 # Take-Quiz
-A Sample Quiz page 
+A Sample Quiz page.
 The above provided files contains the html structure, css styling and javascript.
 Download those files and open the html file to visit the quiz page.
 Click "start quiz", then you will find some instructions about answering the questions and scores.
